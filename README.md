@@ -8,8 +8,7 @@ create patients by submitting a form with the patients name, gender, date of bir
 Proper validation needs to be done on all fields. Allow updates of all patients who are on the FHIR server
 by opening them on the same webpage and updating details. Search patients by their name or phone number.
 
-To build a webpage that interacts with a FHIR server for querying and updating patient data, we'll use JavaScript 
-(along with HTML and CSS for structure and styling). 
+To build a webpage that interacts with a FHIR server for querying and updating patient data.
 
 The following example will:
 
